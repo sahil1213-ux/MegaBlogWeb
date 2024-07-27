@@ -1,8 +1,15 @@
-# React + Vite
+<div align="center">
+  <br />
+    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
+      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+    </a>
+  <br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">Iphone 15 Website</h3>
 
-Currently, two official plugins are available:
+   <div align="center">
+     This is the full stack Mega Blogs website where i have integrated redux and Tailwind CSS for responsive design.
+    </div>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 <a name="table">Table of Contents</a>
